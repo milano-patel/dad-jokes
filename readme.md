@@ -5,7 +5,7 @@ https://icanhazdadjoke.com
 
 ## Live Preview
 
-https://milano-patel.github.io/dade-jokes/
+https://milano-patel.github.io/dad-jokes/
 
 ## Topic Covered
 
