@@ -1,4 +1,4 @@
-## Dade Jokes
+## Dad Jokes
 
 This small web app fetches jokes from an API.
 https://icanhazdadjoke.com
